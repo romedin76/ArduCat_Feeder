@@ -41,7 +41,7 @@ WidgetTerminal Terminal(BLYNK_VIRTUAL_PIN_TEXT);
 
 char auth[] = "qaEPRS2EDFgHXAM47Qaggf6vaOziBiwH";
 char ssid[] = "Charkito";
-char pass[] = "Amiano4852";
+char pass[] = "********";
 
 // Init ESP8266 timer 0
 ESP8266Timer ESPtimer;
